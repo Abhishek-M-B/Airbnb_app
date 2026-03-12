@@ -1,0 +1,24 @@
+# Virtual Environment
+airbnb_venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model file (too large for GitHub)
+airbnb_xgboost_model.pkl
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebooks (if any)
+.ipynb_checkpoints/
