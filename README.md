@@ -1,6 +1,14 @@
-# 🏠 NYC Airbnb Price Predictor
+a# 🏠 NYC Airbnb Price Predictor
 
 A machine learning web app that predicts nightly Airbnb prices in New York City using XGBoost.
+
+---
+
+## 📸 Demo
+
+![Demo](static/airbnb_demo.gif)
+
+---
 
 ## ⚡ Tech Stack
 
@@ -55,17 +63,13 @@ Open `http://localhost:5000` in your browser.
 Airbnb_app/
 ├── app.py                 # Flask backend
 ├── requirements.txt       # Dependencies
+├── static/
+│   └── airbnb_demo.gif    # Demo GIF
 ├── templates/
 │   └── index.html         # Frontend UI
 └── .gitignore
 ```
----
 
-## 📸 Demo
-
-> ![Demo](static/airbnb_demo.gif)
-
----
 ---
 
 > ⚠️ **Note:** `airbnb_xgboost_model.pkl` is not included in the repo due to file size. Train the model using the notebook and place it in the root folder before running.
