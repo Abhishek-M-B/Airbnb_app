@@ -1,4 +1,4 @@
-a# 🏠 NYC Airbnb Price Predictor
+# 🏠 NYC Airbnb Price Predictor
 
 A machine learning web app that predicts nightly Airbnb prices in New York City using XGBoost.
 
