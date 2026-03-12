@@ -63,7 +63,7 @@ Airbnb_app/
 
 ## 📸 Demo
 
-> 🎥 https://github.com/Abhishek-M-B/Airbnb_app/tree/main/static
+> ![Demo](static/airbnb_demo.gif)
 
 ---
 ---
